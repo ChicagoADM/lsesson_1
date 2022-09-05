@@ -20,3 +20,7 @@ ___
 
 >git config --global user.email myEmail@example.com
 ___
+
+## Создать новый репозиторий
+>git init
+___
